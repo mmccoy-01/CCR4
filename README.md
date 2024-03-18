@@ -4,7 +4,9 @@
 ![](data/processed/group.PNG)
 ![](data/processed/individual.PNG)
 
-This is a dashboard I made for making reproducible, replicable, templateable, modular, and accurate experimental documentation for studies involving bioluminescent imaging. My goal is to neatly package all experimental aspects together to provide an exhaustive yet succinctly navigable format.
+This is a dashboard for CCR4 CART experiments based off of this [template](https://github.com/mmccoy-01/bioluminsecent_imaging_experimental_template) I made for making reproducible, replicable, templateable, modular, and accurate experimental documentation for studies involving bioluminescent imaging.
+
+My goal is to neatly package all experimental aspects together to provide an exhaustive yet succinctly navigable format.
 
 ## Abstract
 
