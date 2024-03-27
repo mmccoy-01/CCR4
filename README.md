@@ -27,6 +27,8 @@ Sheykhhasan, M., Manoochehri, H., & Dama, P. (2022). Use of CAR T-cell for acute
 
 ---
 
+The code used to put this poster together is based off of this [template](https://github.com/mmccoy-01/bioluminsecent_imaging_experimental_template) that I made for reproducible, replicable, templateable, modular, and accurate experimental documentation for studies involving bioluminescent imaging. My goal is to neatly package all experimental aspects together to provide an exhaustive yet succinctly navigable format.
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -37,5 +39,3 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-The code is based off of this [template](https://github.com/mmccoy-01/bioluminsecent_imaging_experimental_template) I made for making reproducible, replicable, templateable, modular, and accurate experimental documentation for studies involving bioluminescent imaging. My goal is to neatly package all experimental aspects together to provide an exhaustive yet succinctly navigable format.
