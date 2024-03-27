@@ -1,7 +1,4 @@
 # Therapeutic Efficacy of CCR4-CART Treatment in NSG Mouse Models of T-ALL
-## Summary
-![](data/processed/group.PNG)
-![](data/processed/individual.PNG)
 
 ## Abstract
 Chimeric antigen receptor T-cell (CART) therapy is an adoptive cellular immunotherapy where T-cells are genetically modified to eliminate cancer cells that express a target antigen. Acute lymphobastic leukemia (ALL) has two types: B-cell ALL (B-ALL) and T-cell ALL (T-ALL). CART have shown remarkable efficacy in treating patients with B-ALL and have transformed the therapeutic landscape in B-ALL. The use of CART for T-ALL has lagged behind B-ALL because of several challenges: potential toxicity from elimination of normal T-cells, fratricide, difficulty separating blasts from normal T-cells during manufacturing, and the aggressive nature of relapsed T-ALL. One potential target is C-C chemokine receptor type 4 (CCR4), a surface protein that can be overexpressed in T-ALL. We performed a screen for CCR4 expression in a cohort of patient samples, finding expression on more than 70% of T-ALL samples examined. Based on high-expression in many patients with T-ALL, we developed and evaluated the preclinical efficacy and safety of CCR4-CART generated via CD3/CD28 co-stimulation with 28z signaling domain.
@@ -11,7 +8,8 @@ Using patient-derived xenograft (PDX) models of T-ALL, we assessed the impact of
 We found CCR4-CART treatment was effective in 3 of 6 PDX models. In contrast, CART38 was effective in 2 of 5 PDX models. Compared to mice treated with untransduced T-cells, there was a statistically significant decrease in disease burden in these 3 PDX models. Efficacy of CCR4-CART was comparable to CART38 in these samples. No gross toxicities were found on necropsy and detailed histopathology is on-going. Our study underscores the potential of CCR4-targeted CART therapy as a promising therapeutic approach for T-ALL. On-going work includes comparing response to CCR4-CART with CCR4 expression on T-ALL blasts, testing efficacy and toxicity in additional patient samples, and mechanistic studies investigating the biologic role of CCR4 in T-ALL. A clinical trial for children and young adults with relapsed and refractory T-ALL and T-cell lymphoblastic lymphoma is in development.
 
 ### Key words:
-Chimeric antigen receptor T-cell (CART) therapy, acute lymphoblastic leukemia (ALL), leukemia, C-C chemokine receptor type 4 (CCR4), Patient-derived xenograft (PDX), bioluminescent imaging
+T-cell acute lymphoblastic leukemia (T-ALL), chimeric antigen receptor T-cell (CART) therapy, C-C chemokine receptor type 4 (CCR4), patient-derived xenograft (PDX), bioluminescent imaging (BLI)
+
 ---
 
 ## References for poster
