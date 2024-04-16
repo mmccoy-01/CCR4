@@ -1,2 +1,5 @@
 # git ignore all data files
 *.csv
+
+# git ignore all .tif files
+*.tif
